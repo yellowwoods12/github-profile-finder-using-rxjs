@@ -1,15 +1,15 @@
 {
-  "main.css": "/githubsearch/static/css/main.9ae97384.chunk.css",
-  "main.js": "/githubsearch/static/js/main.2f9f39a5.chunk.js",
-  "main.js.map": "/githubsearch/static/js/main.2f9f39a5.chunk.js.map",
+  "main.css": "/githubsearch/static/css/main.98aee886.chunk.css",
+  "main.js": "/githubsearch/static/js/main.b2eb62ac.chunk.js",
+  "main.js.map": "/githubsearch/static/js/main.b2eb62ac.chunk.js.map",
   "static/js/1.74588e2c.chunk.js": "/githubsearch/static/js/1.74588e2c.chunk.js",
   "static/js/1.74588e2c.chunk.js.map": "/githubsearch/static/js/1.74588e2c.chunk.js.map",
   "runtime~main.js": "/githubsearch/static/js/runtime~main.c36f9cef.js",
   "runtime~main.js.map": "/githubsearch/static/js/runtime~main.c36f9cef.js.map",
-  "static/css/main.9ae97384.chunk.css.map": "/githubsearch/static/css/main.9ae97384.chunk.css.map",
+  "static/css/main.98aee886.chunk.css.map": "/githubsearch/static/css/main.98aee886.chunk.css.map",
   "static/media/logo.svg": "/githubsearch/static/media/logo.5d5d9eef.svg",
   "static/media/App.css": "/githubsearch/static/media/bg.8986f40e.png",
   "index.html": "/githubsearch/index.html",
-  "precache-manifest.0683524966bf1283bc85e7a91a97824b.js": "/githubsearch/precache-manifest.0683524966bf1283bc85e7a91a97824b.js",
+  "precache-manifest.b8b0277ddc6ad86e23913c470c4583cc.js": "/githubsearch/precache-manifest.b8b0277ddc6ad86e23913c470c4583cc.js",
   "service-worker.js": "/githubsearch/service-worker.js"
 }
