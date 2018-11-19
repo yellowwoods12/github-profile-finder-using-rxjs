@@ -2,7 +2,7 @@
   "name": "usersearch",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yellowwoods12.github.io/githubsearch"
+  "homepage": "http://yellowwoods12.github.io/githubsearch",
   "dependencies": {
     "awesome-debounce-promise": "^1.0.0",
     "react": "^16.6.3",
